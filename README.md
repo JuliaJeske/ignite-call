@@ -2,12 +2,6 @@
   Ignite Call - App para agendamento de horarios 
 </h1>
 
-<p align="center">
- ![image](https://user-images.githubusercontent.com/80333527/229944657-edde12a0-11a3-4919-92f6-c28ddcc28edb.png)
-  ![image](https://user-images.githubusercontent.com/80333527/229944586-1bdac97f-ea90-41df-a68f-c5c962122e52.png)
-
-</p>
-
 <br/>
 
 ## 🚀 Tecnologias, Hooks e Bibliotecas
