@@ -23,6 +23,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 - Next.js/router (https://nextjs.org/docs/api-reference/next/router)
 - React query (https://www.npmjs.com/package/react-query)
 - Day.js(https://day.js.org/)
+- Docker (Chegamos em um ponto em que não conseguimos mais continuar usando o sqlite e alteramos o banco para o MySQL.)
 
 ## 💻 Projeto
 
