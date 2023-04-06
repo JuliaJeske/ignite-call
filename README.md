@@ -24,6 +24,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 - React query (https://www.npmjs.com/package/react-query)
 - Day.js(https://day.js.org/)
 - Docker (Chegamos em um ponto em que não conseguimos mais continuar usando o sqlite e alteramos o banco para o MySQL.)
+- Google Api 
 
 ## 💻 Projeto
 
