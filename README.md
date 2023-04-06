@@ -27,6 +27,8 @@ Projeto desenvolvido com as seguintes tecnologias:
 - Google Api 
 - next seo
 
+- Planetscale (https://app.planetscale.com/)
+- Vercel (https://vercel.com/)
 ## 💻 Projeto
 
 O Ignite Call e uma aplicacao para agendamento de horarios, com relacionamento ao google calendar do usuario alem de uso do Prisma como banco de dados(criando um prisma adapter do zero). A aplicacao foi feita durante o curso Ignite de Reactjs da @Rocketseat
